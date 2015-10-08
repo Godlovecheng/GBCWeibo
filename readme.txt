@@ -1,0 +1,1 @@
+登录的微博账号需要在新浪微博开放平台http://open.weibo.com/根据API文档申请获得自己账号的App Key和App Secret码，然后在项目的GBCOAuthViewController.m中将其改为刚才自己申请得到的App Key和App Secret码即可登录。注意：App Key码需改两处，App Secret只需修改一处。
